@@ -28,7 +28,7 @@ ecw -h
 
 ## Documentation
 
-Documentation on github page <>
+Documentation on github page <https://finaceinfo.github.io/EC-CMD-Wallet/>
 
 ## TODO
 

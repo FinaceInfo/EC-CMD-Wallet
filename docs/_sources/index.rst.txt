@@ -37,7 +37,7 @@ Install
 
 Documentation
 --------------------------------
-`Documentation on Readthedocs <http://qsdc>`_.
+`Documentation on Readthedocs <https://finaceinfo.github.io/EC-CMD-Wallet/>`_.
 
 
 TODO

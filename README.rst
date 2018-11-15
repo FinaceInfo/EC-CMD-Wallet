@@ -32,7 +32,7 @@ Install
 
 Documentation
 --------------------------------
-`Documentation on Readthedocs <>`_.
+`Documentation on Readthedocs <https://finaceinfo.github.io/EC-CMD-Wallet/>`_.
 
 
 TODO
